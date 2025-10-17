@@ -8,11 +8,11 @@
 ✏️ Atualizações e Exclusões
 🔍 Consultas Realizadas (DQL)
 
-🧠 Conceitos Aplicados
-    DDL: CREATE TABLE, ALTER, definição de PK e FK (implícita)
-    DML: INSERT, UPDATE, DELETE
-    DQL: SELECT com filtros, operadores lógicos e comparativos
-    Relacionalidade: Ligação entre autores e livros, usuários e empréstimos
+🧠 Conceitos Aplicados <br>
+    DDL: CREATE TABLE, ALTER, definição de PK e FK (implícita)<br>
+    DML: INSERT, UPDATE, DELETE<br>
+    DQL: SELECT com filtros, operadores lógicos e comparativos<br>
+    Relacionalidade: Ligação entre autores e livros, usuários e empréstimos<br>
 
 ##
 <h2>🏥 Projeto SQL – Sistema de Consultas Médicas | MySQL Workbench</h2>
@@ -24,12 +24,12 @@
 📝 Inserção de Dados
 🔎 Consultas SQL (DQL) Realizadas
 
-🧠 Conceitos Aplicados
-      DDL: Criação de banco e tabelas com relacionamentos
-      DML: Inserção de dados com integridade referencial
-      DQL: Consultas com JOIN, COUNT, GROUP BY, ORDER BY, LIKE, LIMIT
-      Relacionamentos: 1:N entre médicos, pacientes e consultas
-      Consultas com múltiplas tabelas: INNER JOIN e LEFT JOIN
+🧠 Conceitos Aplicados<br>
+      DDL: Criação de banco e tabelas com relacionamentos<br>
+      DML: Inserção de dados com integridade referencial<br>
+      DQL: Consultas com JOIN, COUNT, GROUP BY, ORDER BY, LIKE, LIMIT<br>
+      Relacionamentos: 1:N entre médicos, pacientes e consultas<br>
+      Consultas com múltiplas tabelas: INNER JOIN e LEFT JOIN<br>
 
 ##
 <h2>🛒 Projeto SQL – E-commerce | MySQL Workbench</h2>
@@ -41,9 +41,9 @@
 📝 Inserção de Dados
 🔎 Consultas e Análises SQL
 
-🧠 Conceitos Aplicados
-    DDL: CREATE DATABASE, CREATE TABLE
-    DML: INSERT INTO
-    DQL: SELECT, JOIN, GROUP BY, ORDER BY, LIKE, LIMIT, SUM, COUNT
-    Relacionamentos: 1:N entre tabelas (chaves estrangeiras)
-    Consultas intermediárias: subqueries, agregações, filtros compostos
+🧠 Conceitos Aplicados<br>
+    DDL: CREATE DATABASE, CREATE TABLE<br>
+    DML: INSERT INTO<br>
+    DQL: SELECT, JOIN, GROUP BY, ORDER BY, LIKE, LIMIT, SUM, COUNT<br>
+    Relacionamentos: 1:N entre tabelas (chaves estrangeiras)<br>
+    Consultas intermediárias: subqueries, agregações, filtros compostos<br>
